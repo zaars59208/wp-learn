@@ -1,5 +1,6 @@
 /* CSS styles for the form tabs */
 .form-tabs .form-tabs-nav {
+    background: #e3e3e3;
     list-style: none;
     padding: 0;
     margin: 0;
@@ -9,6 +10,11 @@
     display: inline-block;
     margin-right: 10px;
     cursor: pointer;
+}
+
+.form-tabs .form-tabs-nav li:hover {
+    border: 2px solid #0d66c2;
+    padding: 3px;
 }
 
 .form-tabs .form-tabs-nav li.active {
@@ -24,4 +30,16 @@
 
 .form-tabs .form-tab-content.active {
     display: block;
+}
+
+.width-50 {
+    width: 50%;
+}
+
+.float-left{
+    float: left;
+}
+
+.float-right{
+    float: right;
 }
