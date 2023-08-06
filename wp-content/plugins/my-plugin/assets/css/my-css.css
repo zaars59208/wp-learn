@@ -43,3 +43,113 @@
 .float-right{
     float: right;
 }
+
+.wp-input-form-element-label {
+    color: #646970;
+    font-size: 1.7em;
+    padding: 10px;
+    pointer-events: none;
+    cursor: text;
+}
+
+.mp-display-inline{
+    display: inline;
+}
+
+.wp-input-form-element{
+    padding: 3px 8px;
+    font-size: 1.7em;
+    line-height: 100%;
+    height: 1.7em;
+    width: auto !important;
+    outline: 0;
+    margin: 5px 0;
+    background-color: #fff;
+}
+
+.wp-input-form-element-col2{
+    padding: 3px 8px;
+    font-size: 1.7em;
+    line-height: 100%;
+    height: 1.7em;
+    width: 50%;
+    outline: 0;
+    margin: 5px 0;
+    background-color: #fff;
+
+
+}
+
+.wp-input-form-element-col3{
+    padding: 3px 8px;
+    font-size: 1.7em;
+    line-height: 100%;
+    height: 1.7em;
+    width: 33%;
+    outline: 0;
+    margin: 5px 0;
+    background-color: #fff;
+}
+
+.wp-input-form-element-col4{
+    padding: 3px 8px;
+    font-size: 1.7em;
+    line-height: 100%;
+    height: 1.7em;
+    width: 25%;
+    outline: 0;
+    margin: 5px 0;
+    background-color: #fff;
+}
+
+.wp-input-form-element-col5{
+    padding: 3px 8px;
+    font-size: 1.7em;
+    line-height: 100%;
+    height: 1.7em;
+    width: 20%;
+    outline: 0;
+    margin: 5px 0;
+    background-color: #fff;
+}
+
+.my-actions{
+    margin-bottom: 10px;
+}
+
+.mr-10{
+    margin-right: 10px;
+}
+.error{
+    display: block;
+}
+
+div#image-container img {
+    width: 250px;
+    padding: 0 10px;
+}
+
+.uploaded-image {
+    position: relative;
+    display: inline-block;
+    margin: 5px;
+}
+
+.uploaded-image img {
+    max-width: 100px; /* Adjust the max-width to your preference */
+    display: block;
+}
+
+.remove-image {
+    position: absolute;
+    top: -10px;
+    right: 6px;
+    background-color: #f0f0f1;
+    border: none;
+    width: 0;
+    height: 0;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 50%;
+    cursor: pointer;
+}

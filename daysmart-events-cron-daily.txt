@@ -1,0 +1,28 @@
+URL -> Cron job executed at: 2023-07-19 03:21:25
+URL: before anything sync event is scheduled -> https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events?filter[start__gte]=07-19-2023&filter[start__lte]=07-19-2023
+success -> Cron job executed at: 2023-07-19 03:21:31
+success: Events imported.
+URL -> Cron job executed at: 2023-07-23 08:10:03
+URL: before anything sync event is scheduled -> https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events?filter[start__gte]=07-23-2023&filter[start__lte]=07-23-2023
+URL -> Cron job executed at: 2023-07-24 04:45:26
+URL: before anything sync event is scheduled -> https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events?filter[start__gte]=07-24-2023&filter[start__lte]=07-24-2023
+URL -> Cron job executed at: 2023-07-25 03:41:09
+URL: before anything sync event is scheduled -> https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events?filter[start__gte]=07-25-2023&filter[start__lte]=07-25-2023
+URL -> Cron job executed at: 2023-07-27 04:26:06
+URL: before anything sync event is scheduled -> https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events?filter[start__gte]=07-27-2023&filter[start__lte]=07-27-2023
+URL -> Cron job executed at: 2023-07-28 03:51:50
+URL: before anything sync event is scheduled -> https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events?filter[start__gte]=07-28-2023&filter[start__lte]=07-28-2023
+success -> Cron job executed at: 2023-07-28 03:52:35
+success: Events imported.
+URL -> Cron job executed at: 2023-07-29 10:29:24
+URL: before anything sync event is scheduled -> https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events?filter[start__gte]=07-29-2023&filter[start__lte]=07-29-2023
+URL -> Cron job executed at: 2023-07-30 03:41:18
+URL: before anything sync event is scheduled -> https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events?filter[start__gte]=07-30-2023&filter[start__lte]=07-30-2023
+URL -> Cron job executed at: 2023-08-02 16:49:41
+URL: before anything sync event is scheduled -> https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events?filter[start__gte]=08-02-2023&filter[start__lte]=08-02-2023
+URL -> Cron job executed at: 2023-08-03 01:01:42
+URL: before anything sync event is scheduled -> https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events?filter[start__gte]=08-03-2023&filter[start__lte]=08-03-2023
+success -> Cron job executed at: 2023-08-03 01:01:47
+success: Events imported.
+URL -> Cron job executed at: 2023-08-06 02:08:07
+URL: before anything sync event is scheduled -> https://apps.daysmartrecreation.com/dash/jsonapi/api/v1/events?filter[start__gte]=08-06-2023&filter[start__lte]=08-06-2023
